@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./python-learn/面对对象"
+    ]
+}
